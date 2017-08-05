@@ -7,4 +7,4 @@ Discorrer sobre receitas online, cozinheiros amadores e caseiros, soluções exi
 
 ## Tema
 
-Uma receita culinária é definida a partir de instruções, estas envolvem ingredientes e distintas formas de confecção.
+Receitas culinárias são construídas por cozinheiros através de instruções, que relacionam ingredientes e distintas formas de confecção, e procedimentos que são propostos a replicar um prato saboroso.

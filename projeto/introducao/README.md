@@ -7,4 +7,6 @@
 # Introdução
 
 ## Tema
-Receitas culinárias são construídas por cozinheiros através de instruções, os quais relacionam ingredientes e distintas formas de confecção, e procedimentos que são propostos para replicar com eficiência pratos saborosos.  Estas receitas são compiladas em livros, revistas, rótulos de produtos, e a internet para serem transmitidas.  
+Receitas culinárias são construídas por cozinheiros a partir da definição de instruções, as quais envolvem ingredientes e distintas formas de confecção, e procedimentos que são propostos para replicar com eficiência pratos saborosos. Encontram-se receitas em distintos meios como: livros, revistas, rótulos de produtos, vídeos, programas de televisão e a internet. 
+Durante o preparo de uma receita o cozinheiro deve atentar-se com a separação dos ingredientes, também como a mitigação destes em despensa, e com a execução correta de etapas, tarefas, técnicas e dicas nela contidas, para que através destas obtenha o resultado esperado. 
+

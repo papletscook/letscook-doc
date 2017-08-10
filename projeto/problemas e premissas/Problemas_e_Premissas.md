@@ -7,6 +7,7 @@
 
 ##
 - Seria possível um auxiliar cozinheiros durante o preparo da receita, provendo funcionalidades auxiliares, que visam simplificar o ato de cozinhar e garantir que a experiência culinária seja satisfatória?
+- Logo a solução de um aplicativo que pudesse contemplar, uma outra visão de como preparar uma receita e um auxílio ao usuário mostrando receitas compatíveis, de acordo com os ingredientes de sua despensa, possa satisfazer algumas de suas necessidades na cozinha e seu dia-a-dia.
 
 # Texto
 Durante o preparo de qualquer receita o cozinheiro deverá verificar a existência dos ingredientes em despensa, realizar a separação dos mesmos e a também executar de maneira análoga as etapas, passos, técnicas e dicas nela contidas, para que através disto obtenha o resultado esperado. Todas estas atividades mostram o quanto a ato de cozinhar é desafiador e que pode tornar-se um caminho cheio de obstáculos para amadores, seriam estes superáveis com auxílio de uma solução digital?

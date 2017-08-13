@@ -1,6 +1,6 @@
 ## User Stories
 
-*Nome:* Preparar Etapa;
+*Nome:* Preparar Etapa.
 *Use Story:* Sendo um cozinheiro posso preparar as etapas, para que possa obter o passo a passo da receita, com um timer alertando auxiliando e alertando.
 
 *Nome:* Preparo Interativo.
@@ -8,9 +8,6 @@
 
 *Nome:* Separação dos Ingredientes.
 *Use Story:* Sendo um cozinheiro quero obter a lista de ingredientes necessários, para a realizar a separação antes a execução das etapas da receita. 
-
-
-
 
 
 

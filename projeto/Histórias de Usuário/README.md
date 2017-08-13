@@ -51,10 +51,12 @@ Sendo um cozinheiro posso entrar em meu perfil para que possa alterar as informa
 *Use Story:* Sendo um cozinheiro logado posso comentar a receita para que possa expressar opiniões, sugestões e dúvidas e responder os comentários da receita.
 
 
-*Nome:* Cadastrar ou Publicar? Receita
-*Use Story:* Sendo um cozinheiro logado posso cadastrar receita para que todos os cozinheiros possa ver e produzir a receita.
+*Nome:* Publicar Receita
+*Use Story:* Sendo um cozinheiro logado posso publicar receita para que todos os cozinheiros possam ve-la e produzi-la.
 
 
+*Nome:* Incluir Ingredientes Receita
+*Use Story:* Sendo um cozinheiro durante a publicação de uma receita devo incluir ingredientes na receita, especificando a quantidade e a unidade de medida, para que possa representar os ingredientes presentes na receita adequadamente. 
 
 *Nome:* Cadastrar Etapa da receita?
 *Use Story:* Sendo um cozinheiro posso cadastrar etapa na receita para que todos os cozinheiros possa ver o passo a passo detalhado na etapa, com medidas e informações adicionais.
@@ -64,7 +66,7 @@ Sendo um cozinheiro posso entrar em meu perfil para que possa alterar as informa
 *Use Story:* Sendo um cozinheiro posso cadastrar ingredientes na receita para que todos os cozinheiros possa ver detalhado os ingredientes da receita.
 
 
-*Nome:* Editar receita?
+*Nome:* Editar Receita
 *Use Story:* Sendo um cozinheiro posso editar receita para que possa modificar os detalhes, ingredientes e etapas da receita.
 
 

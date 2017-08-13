@@ -1,13 +1,19 @@
 ## User Stories
 
 *Nome:* Preparar Etapa.
-*Use Story:* Sendo um cozinheiro posso preparar as etapas, para que possa obter o passo a passo da receita, com um timer alertando auxiliando e alertando.
+*Use Story:* Sendo um cozinheiro posso preparar as etapas, para que possa obter o passo a passo da receita, caso seja uma etapa com tempo definido um timer deverá ser exibido para alertar o tempo especificado.
 
 *Nome:* Preparo Interativo.
 *Use Story:* Sendo um cozinheiro quero iniciar o preparo interativo de uma receita, para me auxiliar na execução da mesma, atraves da separação dos ingredientes e exibição das etapas, checklists, cronometros, avisos, alertas e dicas.
 
 *Nome:* Separação dos Ingredientes.
 *Use Story:* Sendo um cozinheiro quero obter a lista de ingredientes necessários, para a realizar a separação antes a execução das etapas da receita. 
+
+*Nome:* Encontrar receitas com ingredientes disponíveis.
+*Use Story:* Sendo um cozinheiro quero obter receitas compativeis com os ingredientes em minha despensa, para que possa prepará-las. 
+
+*Nome:* Resumo Receita
+*Use Story:* Sendo um cozinheiro quero obter resumo da receita, para que possa analisar a complexidade, ingredientes, categoria , avaliações e comentários, para que possa então prepará-la. 
 
 
 
@@ -33,8 +39,6 @@ Use Story	Sendo um cozinheiro posso gerenciar as listas compras para que possa v
 Nome	Manipular Despensa
 Use Story	Sendo um cozinheiro posso cadastrar, excluir e editar os ingredientes da despensa para que possa auxiliar na busca das receitas com os ingredientes cadastrados. 
 
-Nome	Sugestão de Receitas
-Use Story	Sendo um cozinheiro posso ter sugestões de receitas para que possa obter sugestões de receitas aproximadas aos ingredientes da minha despensa.
 
 Nome	Perfil do Cozinheiro
 Use Story

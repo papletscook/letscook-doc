@@ -66,3 +66,17 @@ Sendo um cozinheiro posso entrar em meu perfil para que possa alterar as informa
 *Use Story:* Sendo um cozinheiro posso editar receita para que possa modificar os detalhes, ingredientes e etapas da receita.
 
 
+
+
+
+# Dev
+
+- User Stories focam nos objetivos do usuário e como o sitema alcança esses objetivos.
+- User Stories fracionam os requisitos para que seja possível (e mais fácil) estimar o esforço para realizar aquele objetivo.
+- descrições simples que descrevem uma funcionalidade e escritas segundo o ponto de vista do usuário.
+- Validar se a funcionalidade é realmente necessária antes de incluí-la
+- Análise das necessidades reais do usuário
+- Ajuda a priorizar o que deve ser feito
+
+
+Histórias de usuário (User Stories) são requisitos de sistema, estes segundo Sommervile descrevem detalhadamente funcionalidades, serviços e restrições de software para implementação. Essas histórias são orientadas aos objetivos do usuário, proproem o fracionamento dos requistos em prol da viabilidade da estivativa de esforço, alem de induzir a analise da necessidade real dos usuários permite a priorização. 
